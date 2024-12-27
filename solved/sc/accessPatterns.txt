@@ -1,0 +1,39 @@
+# Those three for manually verifying the correctness of python program
+# 35 accesses, 16 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_16, c_0, c_1
+# 30 accesses, 6 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_1, c_2, c_17, c_0, c_3, c_1, c_2, c_4, c_6, c_5, c_6, c_8, c_7, c_8
+# 30 accesss, 4 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_3, c_5, c_6, c_16, c_17, c_18, c_19, c_0, c_1, c_2, c_3, c_4, c_9, c_8
+
+
+# After the manual verification, comparing results generated from gem5 and ones from python program
+# 30 accesses, 6 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_3, c_16, c_12, c_17, c_0, c_7, c_15, c_5, c_18, c_9, c_1, c_19, c_6, c_20
+
+# 30 accesses, 5 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_16, c_17, c_18, c_19, c_11, c_6, c_20, c_16, c_15, c_21, c_0, c_10, c_22, c_23
+
+# 30 accesses, 8 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_14, c_13, c_10, c_11, c_16, c_17, c_5, c_6, c_2, c_0, c_9, c_18, c_19, c_20
+
+# 30 accesses, 7 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_14, c_14, c_2, c_11, c_8, c_16, c_12, c_17, c_18, c_19, c_20, c_4, c_19, c_21
+
+# 30 accesses, 8 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_13, c_1, c_2, c_16, c_17, c_18, c_3, c_10, c_16, c_15, c_19, c_8, c_4, c_18
+
+# 30 accesses, 7 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_16, c_17, c_13, c_18, c_11, c_19, c_2, c_16, c_20, c_0, c_15, c_7, c_2, c_0
+
+# 30 accesses, 4 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_9, c_16, c_17, c_16, c_18, c_1, c_19, c_20, c_12, c_21, c_22, c_6, c_23, c_21
+
+# 30 accesses, 9 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_0, c_6, c_3, c_0, c_16, c_11, c_10, c_17, c_18, c_0, c_7, c_19, c_10, c_5
+
+# 30 accesses, 10 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_16, c_1, c_17, c_3, c_2, c_12, c_7, c_2, c_18, c_13, c_6, c_10, c_2, c_10
+
+# 30 accesses, 6 hits
+c_0, c_1, c_2, c_3, c_4, c_5, c_6, c_7, c_8, c_9, c_10, c_11, c_12, c_13, c_14, c_15, c_1, c_16, c_10, c_17, c_18, c_19, c_7, c_20, c_21, c_22, c_14, c_2, c_13, c_7
